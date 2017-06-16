@@ -221,7 +221,9 @@ header .nav .menu a:hover+span{
 .bottom-cooperation {
   display: block;
 }
-
+.bd-bottom-moremsg a i{
+	margin-right:15px ;
+}
 
 /*.bd-bottom-moremsg{
 
